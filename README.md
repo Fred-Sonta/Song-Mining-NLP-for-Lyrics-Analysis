@@ -30,13 +30,14 @@ The goal was to explore lyrical patterns, sentiment distribution, and thematic s
   - `WordCloud` (Visuals)
 
 ## 📂 Project Structure
+```text
 ├── data/
 │   └── Eminem.csv          # Raw dataset (Lyrics)
 ├── notebooks/
-│   └── analysis.ipynb      # Main Jupyter Notebook containing all logic
-├── output/                 # Generated images (optional)
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+│   └── analysis.ipynb     # Main Jupyter Notebook containing all logic
+├── output/                # Generated images (optional)
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
 
 ## ⚙️ Installation & Usage
 
