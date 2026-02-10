@@ -38,6 +38,7 @@ The goal was to explore lyrical patterns, sentiment distribution, and thematic s
 ├── output/                # Generated images (optional)
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 ## ⚙️ Installation & Usage
 
